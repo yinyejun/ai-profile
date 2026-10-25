@@ -1,23 +1,28 @@
-# 我的 AI 档案
+# 大军的 AI 档案
 
 > 这是一份写给 AI 看的「关于我」说明书。任何 AI 读完这几个文件，就应该知道我是谁、在做什么、喜欢什么样的回答方式，从而不用我每次从头解释。
 
+**档案主角：** 大军 · 广州 · 体育教师 + 短视频
 **最后更新：** 2026-10-25
 
 ---
 
 ## 怎么用这份档案
 
-给 AI 的指令，直接复制这句：
+给 AI 的指令，直接复制这段：
 
 ```
 请先读一遍我的个人档案：
 https://raw.githubusercontent.com/yinyejun/ai-profile/main/README.md
 再读同目录下的 01-identity.md 和 04-preferences.md（把链接末尾的文件名换掉即可）。
-读完告诉我你理解到的我是谁，有理解错的地方我会纠正。
+读完用三句话复述你对我的理解，有理解错的地方我会纠正。
 ```
 
-然后正常提问即可。
+国内 AI（豆包、元宝、Kimi）如果抓不到上面的链接，换成这个镜像地址：
+
+```
+https://cdn.jsdelivr.net/gh/yinyejun/ai-profile@main/README.md
+```
 
 ---
 
@@ -25,11 +30,11 @@ https://raw.githubusercontent.com/yinyejun/ai-profile/main/README.md
 
 | 文件 | 里面写了什么 | AI 什么时候该看 |
 |---|---|---|
-| [01-identity.md](./01-identity.md) | 我是谁：身份、背景、当前状态 | 任何时候，优先读这个 |
-| [02-work.md](./02-work.md) | 我在做什么：项目、任务、卡点 | 聊工作、要建议时 |
-| [03-goals.md](./03-goals.md) | 我要去哪：目标、优先级、不做的事 | 要做取舍、排优先级时 |
-| [04-preferences.md](./04-preferences.md) | 我的习惯：工具、作息、雷区 | 给方案、给建议时 |
-| [05-writing-style.md](./05-writing-style.md) | 我怎么说话、要你怎么写 | 帮我写东西时 |
+| [01-identity.md](./01-identity.md) | 我是谁：职业、背景、不会写代码这件事 | 任何时候，优先读这个 |
+| [02-work.md](./02-work.md) | 我在做什么：教学和短视频两条线，卡在哪 | 聊工作、要建议时 |
+| [03-goals.md](./03-goals.md) | 我要去哪：优先级、不做的事 | 要做取舍、排优先级时 |
+| [04-preferences.md](./04-preferences.md) | **我最在意的一条**：多举例、直接指出问题 | 给方案、给建议时，必读 |
+| [05-writing-style.md](./05-writing-style.md) | 我的文案风格：口语、短句、开头有钩子 | 帮我写脚本、写文案时 |
 | [06-faq.md](./06-faq.md) | 高频问题，省得重复回答 | 问我个人情况时 |
 
 ---
@@ -40,9 +45,10 @@ https://raw.githubusercontent.com/yinyejun/ai-profile/main/README.md
 2. 档案里的内容和我的即时指令冲突时，**以我当下说的为准**。
 3. 档案里没有的信息，直接问我，不要猜。
 4. 如果你发现档案有过时的地方，主动提醒我更新。
+5. **我不会写代码。** 任何技术方案都要给「点哪里、填什么」的步骤，不要给代码。
 
 ---
 
 ## 更新日志
 
-- 2026-10-25：建立档案
+- 2026-10-25：建立档案，填入身份、工作、偏好、文案风格
